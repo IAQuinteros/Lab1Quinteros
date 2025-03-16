@@ -1,0 +1,70 @@
+.PrimeraSeccion{
+    margin: 20px 0;
+    background-color: grey;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.SegundaSeccion{
+    margin: 20px 0;
+    background-color: grey;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.Links{
+    margin: 20px 0;
+    background-color: grey;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(0,0,0,0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.MiNombre{
+    font-size: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    text-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+    margin-bottom: 10px;
+}
+
+h2{
+    font-size: 24px;
+    color:#333;
+    margin-bottom: 10px;
+    border-bottom: 3px solid #007bff;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+ul{
+    list-style: none;
+    text-align: left;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+ul li{
+    background: #007bff;
+    color: white;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+
+ul li:hover{
+    background: #0056b3;
+}
+
+footer{
+    margin-top: 20px;
+    font-size: 14px;
+    color: #666;
+}
